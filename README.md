@@ -1,3 +1,13 @@
-# Mentor_and_Student_Assigning_with_Database
+<hr/>
 
-<h3>Assigning mentor-students with database API for => https://assigning-mentor-students-with-database.onrender.com/</h3>
+# Brief
+
+Submitted and coded by Jagadeesh Kumar . S, you may send mail to my email address which is jagadeesh_2k17@proton.me, you may contribute some money to my Indian Unified Payment Interface (UPI) which is jagadeesh-kumar@ybl .
+
+<hr/>
+
+# Task 
+
+Mentor and Student Assigning with Database
+
+<hr/>
