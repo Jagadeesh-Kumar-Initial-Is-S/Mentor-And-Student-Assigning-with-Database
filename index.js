@@ -8,6 +8,8 @@ app.use(express.json());
 let mentor = [];
 let student = [];
 
+await mongoclient.connect();
+console.log("MongoDB is connected.");
  
   app.get('/', (req, res) => {
     res.status(200).json({
