@@ -17,3 +17,15 @@ Mentor and Student Assigning with Database
 Back-end Source code's link is equal to https://github.com/Jagadeesh-Kumar-Initial-Is-S/Mentor-And-Student-Assigning-with-Database
 
 <hr/>
+
+Back-end Deployed URL
+
+Back-end Deployed URL's link is equal to https://mentor-and-student-assigning-with-database.vercel.app/
+
+<hr/>
+
+# Documentation on Postman
+
+Documentation on Postman is equal to https://documenter.getpostman.com/view/25437042/2s8ZDYYNBy .
+
+<hr/>
